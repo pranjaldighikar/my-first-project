@@ -1,7 +1,7 @@
-# 🚀 My Web Development Project
+# 🚀 To-Do List Web App
 
 ## 📌 About the Project
-This is a simple and responsive web application built using **HTML, CSS, and JavaScript**.  
+This is a simple and responsive to-do list web application built using **HTML, CSS, and JavaScript**.  
 The project focuses on improving front-end development skills and creating interactive user experiences.
 
 ---
@@ -27,12 +27,12 @@ The project focuses on improving front-end development skills and creating inter
 ---
 
 ## 🌐 Live Demo
-🔗 https://yourusername.github.io/project-name/
+🔗 https://pranjaldighikar.github.io/my-first-project/
 
 ---
 
 ## 📂 GitHub Repository
-🔗 https://github.com/yourusername/project-name
+🔗 https://github.com/pranjaldighikar/my-first-project
 
 ---
 
@@ -55,7 +55,5 @@ The project focuses on improving front-end development skills and creating inter
 This project was created as part of my learning journey in web development.
 
 ---
-
-## 📬 Contact
-- LinkedIn: (your link)  
-- GitHub: (your link)
+## 📬 Contact 
+- GitHub:https://github.com/pranjaldighikar
