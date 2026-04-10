@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Streamline To-Do</title>
+<link rel="stylesheet"
+href="style.css">
+</head>
+<body>
+<div class="container">
+<header>
+<h1>My Tasks</h1>
+<p id="date-display"></p>
+</header>
+<section class="input-group">
+<input type="text" id="task-input" placeholder="What needs to be done?" aria-label="New Task Name">
+<button id="add-btn">Add Task</button>
+</section>
+<main>
+<ul id="task-list">
+</ul>
+</main>
+<footer>
+<span id="task-count">0 tasks left</span>
+<button id="clear-completed">Clear Completed</button>
+</footer>
+</div>
+<script src="script.js"></script>
+</body>
+</html>
